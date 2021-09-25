@@ -1,5 +1,6 @@
 
 Just creating a very simple Jupyter kernel.
+![](very_simple.png)
 
 ## Usage
 ```
@@ -7,6 +8,7 @@ git clone https://github.com/akkiolive/TestKernel.git
 cd TestKernel
 pip install -e .
 python install_kernel.py
+jupyter lab
 ```
 
 ## What is done
